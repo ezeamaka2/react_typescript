@@ -1,3 +1,3 @@
 # React and Typescript Todo App 
 
-working with typescript and react js to build a todo app
+Building a todo app with React and Typescript
